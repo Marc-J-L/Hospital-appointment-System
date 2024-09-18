@@ -1,0 +1,11 @@
+InvoiceId: 1
+ Payor: Bob Brown
+ Registration fee: $100.00
+ Medication unit: 30
+ Medication fee: $3,000.00
+ Diagnostic test fee: $20.00
+ Insuranc Coverage: 0.00%
+ Total amount: $3,120.00
+ Invoice created on 2024-01-10T21:21:03.304344
+
+

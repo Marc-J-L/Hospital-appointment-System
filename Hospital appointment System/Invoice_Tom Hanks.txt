@@ -1,0 +1,11 @@
+InvoiceId: 2
+ Payor: Tom Hanks
+ Registration fee: $100.00
+ Medication unit: 28
+ Medication fee: $1,400.00
+ Diagnostic test fee: $20.00
+ Insuranc Coverage: 80.00%
+ Total amount: $304.00
+ Invoice created on 2024-01-10T21:26:01.798262900
+
+

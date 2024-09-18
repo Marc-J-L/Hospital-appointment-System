@@ -1,0 +1,36 @@
+DoctorId: 1 
+Sophie Davis 
+age: 34
+phone number: 555-673-1234
+address: 456 Maple St
+Specialty: Cardiology 
+YearsInPractice: 9 
+AssignedPatients:  
+
+DoctorId: 2 
+Michael Rodriguez 
+age: 40
+phone number: 555-432-5678
+address: 789 Oak St
+Specialty: Pediatrics 
+YearsInPractice: 12 
+AssignedPatients:  
+
+DoctorId: 3 
+Emily Turner 
+age: 48
+phone number: 555-890-9876
+address: 876 Pine St
+Specialty: Orthopedics 
+YearsInPractice: 14 
+AssignedPatients:  
+
+DoctorId: 4 
+Anna Bennett 
+age: 43
+phone number: 234-000-3465
+address: 245penth
+Specialty: cardiologist 
+YearsInPractice: 13 
+AssignedPatients:  
+

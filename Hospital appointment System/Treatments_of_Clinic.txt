@@ -1,0 +1,22 @@
+TreatmentId: 1 
+Patient Name: Bob Brown
+Doctor Name: Emily Turner
+Nurse Name: Eva Martinez
+Treatment description: Medicine
+Start Date: 2024-01-12
+End Date: 2024-02-11
+Medical unit: 30
+Diagnostic test: false
+Treatment created on :2024-01-10T21:20:00.191986500
+
+TreatmentId: 2 
+Patient Name: Tom Hanks
+Doctor Name: Emily Turner
+Nurse Name: Eva Martinez
+Treatment description: medicine
+Start Date: 2024-02-01
+End Date: 2024-02-29
+Medical unit: 28
+Diagnostic test: true
+Treatment created on :2024-01-10T21:24:50.592196200
+

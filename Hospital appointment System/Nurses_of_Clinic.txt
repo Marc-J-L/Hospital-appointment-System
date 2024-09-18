@@ -1,0 +1,24 @@
+NurseId: 1 
+Alice Johnson 
+age: 33
+phone number: 555-296-1111
+address: 321 Pine St
+YearsInPractice: 7 
+Skill: Neurology 
+
+NurseId: 2 
+Eva Martinez 
+age: 28
+phone number: 555-324-2222
+address: 654 Birch St
+YearsInPractice: 8 
+Skill: Internal Medicine 
+
+NurseId: 3 
+David White 
+age: 35
+phone number: 555-324-3333
+address: 987 Cedar St
+YearsInPractice: 10 
+Skill: Cardiology 
+
